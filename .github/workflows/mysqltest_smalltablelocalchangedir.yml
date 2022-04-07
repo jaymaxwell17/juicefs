@@ -1,4 +1,4 @@
-name: "mysqltestchangedir"
+name: "mysql-smalltable-changedir"
 
 on:
   push:

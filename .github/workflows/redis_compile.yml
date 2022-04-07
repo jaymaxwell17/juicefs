@@ -1,4 +1,4 @@
-name: "rediscompile"
+name: "redis-compile"
 
 on:
   push:

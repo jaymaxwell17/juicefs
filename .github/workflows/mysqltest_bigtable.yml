@@ -1,4 +1,4 @@
-name: "mysqltest"
+name: "mysqltest-bigtable"
 
 on:
   push:

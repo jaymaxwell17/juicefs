@@ -1,4 +1,4 @@
-name: "elastictest"
+name: "elastic-test"
 
 on:
   push:

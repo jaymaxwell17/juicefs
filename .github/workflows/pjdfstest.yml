@@ -1,4 +1,4 @@
-name: "pjdfstest"
+name: "pjd-fs-test"
 
 on:
   push:

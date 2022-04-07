@@ -1,4 +1,4 @@
-name: "sysbench"
+name: "sysbench-smallfile-seqrw"
 
 on:
   push:

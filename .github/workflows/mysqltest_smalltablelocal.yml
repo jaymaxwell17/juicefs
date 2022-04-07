@@ -1,4 +1,4 @@
-name: "mysqltestlocal"
+name: "mysql-smalltable-local"
 
 on:
   push:
